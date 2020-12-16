@@ -3,4 +3,4 @@ project(CppPreStudy)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CppPreStudy main.cpp)
+add_executable(CppPreStudy leapYear.cpp)
